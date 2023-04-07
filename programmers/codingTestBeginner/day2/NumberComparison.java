@@ -1,4 +1,4 @@
-package programmers.day2;
+package programmers.codingTestBeginner.day2;
 
 public class NumberComparison {
     public static int solution(int num1, int num2) {
