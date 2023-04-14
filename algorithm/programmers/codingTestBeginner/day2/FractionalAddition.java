@@ -1,4 +1,4 @@
-package programmers.codingTestBeginner.day2;
+package algorithm.programmers.codingTestBeginner.day2;
 
 import java.util.Arrays;
 

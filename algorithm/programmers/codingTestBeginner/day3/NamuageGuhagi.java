@@ -1,4 +1,4 @@
-package programmers.codingTestBeginner.day3;
+package algorithm.programmers.codingTestBeginner.day3;
 
 public class NamuageGuhagi {
     public static int solution(int num1, int num2) {

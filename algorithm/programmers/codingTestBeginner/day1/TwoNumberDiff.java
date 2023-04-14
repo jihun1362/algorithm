@@ -1,4 +1,4 @@
-package programmers.codingTestBeginner.day1;
+package algorithm.programmers.codingTestBeginner.day1;
 
 class Solution2 {
     public static int solution(int num1, int num2) {
