@@ -9,7 +9,6 @@ public class Sale {
         System.out.println(answer);
         return (price-(int)answer);
     }
-
     public static void main(String[] args) {
         System.out.println(solution(125510));
     }
