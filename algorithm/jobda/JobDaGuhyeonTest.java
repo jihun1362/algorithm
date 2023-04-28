@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.jobda;
 
 import java.util.Arrays;
 
