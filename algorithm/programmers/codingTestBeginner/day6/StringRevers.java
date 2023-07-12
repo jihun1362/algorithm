@@ -4,7 +4,7 @@ import java.util.*;
 
 public class StringRevers {
     public static String solution(String my_string) {
-        List<String> s = new java.util.ArrayList<>(List.of(my_string.split("")));
+        List<String> s = new java.util.ArrayList<>(Arrays.asList(my_string.split("")));
         Collections.reverse(s);
         return String.join("",s);
     }

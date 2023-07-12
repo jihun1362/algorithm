@@ -19,7 +19,7 @@ public class Num20 {
 
         String[] strings = s.split("");
         Arrays.sort(strings, Comparator.reverseOrder());
-        ArrayList<String> strings1 =new ArrayList<>(List.of(strings));
+        ArrayList<String> strings1 =new ArrayList<>(Arrays.asList(strings));
         String answer = String.join("",strings1);
 
 
